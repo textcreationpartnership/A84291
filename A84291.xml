@@ -1,0 +1,826 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to catechizing: the long neglect whereof is sadly lamented. And the speedy reviving as earnestly desired. / By the provincial assembly at London. August 30. 1655.</title>
+            <author>London (England). Provincial Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84291</idno>
+            <idno type="STC">Wing E3867</idno>
+            <idno type="STC">Thomason E853_32</idno>
+            <idno type="STC">ESTC R207472</idno>
+            <idno type="EEBO-CITATION">99866521</idno>
+            <idno type="PROQUEST">99866521</idno>
+            <idno type="VID">118797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118797)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E853[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to catechizing: the long neglect whereof is sadly lamented. And the speedy reviving as earnestly desired. / By the provincial assembly at London. August 30. 1655.</title>
+                  <author>London (England). Provincial Assembly.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Samuel Gellibrand at the signe of the Ball in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print dated August 30, 1655 and signed: Samuel Balmford Moderator. John Jackson Scriba.</note>
+                  <note>Annotation on Thomason copy: "7ber. 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Catechetics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118797:1" rendition="simple:additions"/>
+            <p>AN EXHORTATION TO Catechizing: The long neglect whereof is ſadly
+la<g ref="char:EOLhyphen"/>mented. And the ſpeedy reviving as earneſtly deſired.</p>
+            <p>BY The PROVINCIAL Aſſembly at <hi>LONDON. Auguſt</hi> 30.
+1655.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for
+<hi>Samuel Gellibrand</hi> at the ſigne of the BALL in <hi>Pauls</hi>
+Church-yard. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118797:2"/>
+            <pb n="3" facs="tcp:118797:2"/>
+            <head>AN EXHORTATION TO Catechizing.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the confeſſed corruption of our own hearts, and
+unobſerved cunning of Satan, have unhappily held us, too long a time, at too
+great a diſtance; ſo that we have not been ſo forward, as we ought, to
+contribute our mutual counſels, to the better advancing of the common good:
+yet can we not allow ourſelves to ſuſpect, that any of our dear Brethren,
+(who (bleſſed be God) do fully accord with us, in all the fundamentals of
+our holy Religion, though of different perſwaſions in ſome ſmaller
+points), will be backward to entertain that ſeaſonable, yea, neceſſary
+motion, which we ſhall here, in the fear of the Lord, humbly preſent to
+them.</p>
+            <p>What deſperate <hi>defections</hi> many have lately made, from
+that <hi>precious faith, which was once delivered to the Saints;</hi> and what
+inſolent <hi>invaſions</hi> have been made upon it, by looſe tongues, and
+lewder pens, we muſt needs all clearly <hi>ſee,</hi> and ſhould as
+ſadly <hi>lament.</hi>
+            </p>
+            <p>How blaſphemouſly have ſome diſputed againſt the
+infi<g ref="char:EOLhyphen"/>nite merit, yea, and <hi>Deity</hi> of <hi>our Saviour,</hi> as if they
+intended<pb n="4" facs="tcp:118797:3"/>to juſtifie the Jewes, in ſentencing him to the
+Croſſe, for a<g ref="char:EOLhyphen"/>vouching himſelf the <hi>coeternal</hi> and <hi>coequal
+Sonne of God?</hi> How audaciouſly have they proceeded in the like
+ſacrilegious attempts againſt the <hi>Holy Ghoſt,</hi> and while they
+have pre<g ref="char:EOLhyphen"/>ſumed to crie up all ſanctified men as ſo many <hi>Gods,</hi>
+not fear<g ref="char:EOLhyphen"/>ed to cry down the bleſſed Author of all our ſanctification, as
+if he were at moſt but an <hi>Angel?</hi>
+               <note place="margin">Bid. Cat.</note>
+How wildly have they riſen up, in the profane pride of their haughty wits,
+againſt moſt of the glorious <hi>attributes</hi> of the <hi>Deity,</hi>
+reckoning the unqueſtionable Doctrines, of Gods <hi>Omniſcience,
+Omnipre<g ref="char:EOLhyphen"/>ſence, Immutability,</hi> with the reſt of his bleſſed
+<hi>excellencies,</hi> among the abſurd dreams of <hi>Tranſubſtantiation,
+Conſubſtan<g ref="char:EOLhyphen"/>tiation,</hi> and the like novel and ridiculous Paradoxes? Thus
+pretending to make their diſciples <hi>meere Chriſtians,</hi> they have
+taken a faire courſe, to leave them <hi>meere Atheiſts.</hi>
+            </p>
+            <p>Having laid theſe curſed foundations, it is not to be
+won<g ref="char:EOLhyphen"/>dered, that they raiſe an anſwerable ſtructure of wretched fancies,
+about the <hi>purity of mans nature,</hi> and the ſufficiency of his
+<hi>power to ſave himſelf,</hi> without being too much behold<g ref="char:EOLhyphen"/>en to thoſe
+poor means, which the ſimplicity of our preach<g ref="char:EOLhyphen"/>ing, belike in too nice a
+conformity to the <hi>fooliſhneſſe of God</hi> hath been wont to
+preſcribe.</p>
+            <p>Hence they have taken the boldneſſe to decrie the
+<hi>Scri<g ref="char:EOLhyphen"/>ptures,</hi> as ſome what too dim, eſpecially in compariſon of
+their more <hi>glorious new lights;</hi> to deſpiſe the
+<hi>Sacraments,</hi> as if they were as <hi>beggerly elements</hi> as the
+Jewiſh <hi>ceremonies;</hi> to deride the ſing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of <hi>Pſalmes,</hi> as if <hi>Davids Harp</hi> were
+now out of tune; to reject <hi>Prayer,</hi> as if they had attained to ſo
+plentiful a meaſure of ſpiritual <hi>riches,</hi> that it were a ſhame
+for them to crave any further <hi>ſupplies.</hi> And then alas (think they)
+what ſhould they viainly loſe a ſeventh part of the year in the
+ſuperſtitious obſervation of a <hi>weekly Sabbath,</hi> whereas their
+whole life is but one continued <hi>holy day?</hi> What ſhould they defile
+themſelves with the infectious aire of our <hi>corrupt Churches,</hi> where
+we never aſſemble, without conſtant confeſſions, of too many
+<hi>iniquities</hi> in our <hi>holy things?</hi> Short<g ref="char:EOLhyphen"/>ly, what ſhould they
+buſie themſelves too much in preparing themſelves for <hi>Heaven?</hi> We
+muſt know they are <hi>there alrea<g ref="char:EOLhyphen"/>dy;</hi>
+               <pb n="5" facs="tcp:118797:3"/>nor can they
+acknowledge any <hi>other Heaven,</hi> beſides that in their own
+<hi>boſomes.</hi> What ſhould they be too fearful of the torments of
+<hi>Hell,</hi> wherewith w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are
+wont to terrifi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> worldlings from
+ſin? Theſe men have diſcovered, upon a profounder ſearch, that
+<hi>eternal death</hi> is but a <hi>totall annihilati<g ref="char:EOLhyphen"/>on,</hi> and ſo
+<hi>Hell is just nothing.</hi>
+               <note place="margin">Bid. Cat.</note> And for the
+ſouls of the wic<g ref="char:EOLhyphen"/>ked, though it ſhould prove true, that they ſhall not be
+utter<g ref="char:EOLhyphen"/>ly annihilated, 
+<note place="margin">R. O.</note> yet they are ſatisfied they
+ſhall <hi>ſleep</hi> ſo ſound<g ref="char:EOLhyphen"/>ly after their diſſolution, that they
+ſhall not be at all <hi>ſenſible</hi> of their happineſſe, or
+miſery.</p>
+            <p>Thus is there ſcarce any one <hi>Article of the Chriſtian
+Re<g ref="char:EOLhyphen"/>ligion,</hi> yea, or that <hi>Syſteme of Divinity,</hi> which may be
+eaſily framed out of the ſcattered notions of humane <hi>reaſon,</hi> as
+mi<g ref="char:EOLhyphen"/>ſerably as we acknowledge it to be corrupted, which hath not received many
+a ſore blow, and that from the hands of thoſe, whoſe hearts did ere
+whiles ſeem ready to expoſe their heads, to the greateſt hazards, for the
+leaſt tittle of ſacred truth.</p>
+            <p>We have the charity to think, that moſt of the oppoſiti<g ref="char:EOLhyphen"/>ons,
+which have beene ſo unhappily raiſed againſt the truths of God, though
+they be <hi>now</hi> attended with too much <hi>malice,</hi> yet did at
+<hi>firſt</hi> ſpring meerely from <hi>ignorance.</hi> Had the
+<hi>truth</hi> beene rightly <hi>underſtood,</hi> it had not beene ſo
+unworthily <hi>under<g ref="char:EOLhyphen"/>valued,</hi> much leſſe ſo treacherouſly
+<hi>undermined,</hi> and leaſt of all ſo impudently <hi>affronted,</hi> as
+woe is us we behold it, both to our <hi>grief,</hi> and <hi>horror.</hi>
+            </p>
+            <p>We are not unwilling to charge our ſelves, as ſo farre
+ac<g ref="char:EOLhyphen"/>ceſſary to all thoſe Barbarous <hi>Hereſies</hi> which are daily
+broached, and curſed <hi>Blaſphemies</hi> which are as frequently belched
+out, againſt the Majeſty, and truth of our holy God, that we have beene
+leſſe ſolicitous then we ought, for the due ſeaſoning of the hearts
+of our people, with the <hi>firſt principles</hi> (which are indeed the
+moſt <hi>momentous points</hi>) of Chriſtian Religion. A timely
+<hi>ſalting,</hi> would by the bleſſing of God, have happily prevented
+moſt of that <hi>unſavourineſſe,</hi> in the diſcourſes, and
+practiſes, of too too many of them, which, (God be merciful to us) it is
+impoſſible not to <hi>reſent,</hi> and it is as difficult to
+<hi>remedy.</hi> Had there beene more <hi>Catechizing,</hi>
+               <pb n="6" facs="tcp:118797:4"/>there would have beene leſſe <hi>Apoſtaſie.</hi> Had it not
+beene for want of ſeaſonable <hi>inſtructions,</hi> we had not ſeene
+ſo many li<g ref="char:EOLhyphen"/>centious <hi>inſurrections,</hi> againſt the ſacred truths,
+and Ordinan<g ref="char:EOLhyphen"/>ces of God.</p>
+            <p>It is the rare priviledge of the <hi>Romiſh Synagogue,</hi> to
+have ſuch a power over <hi>ignorance,</hi> as to command her to imploy her
+ſelf as a <hi>tender nurſe</hi> to their <hi>blinde devotions;</hi> But the
+Church of Chriſt hath ever found her ſuch a <hi>froward piece,</hi> as that
+ſhe hath <hi>churliſhly handled</hi> all the genuine iſſues of
+<hi>truth</hi> and <hi>piety,</hi> and as <hi>fondly cockered</hi> all the
+miſhapen Mon<g ref="char:EOLhyphen"/>ſters of <hi>Error,</hi> though never ſo ſtrangely
+compoſed, of an He<g ref="char:EOLhyphen"/>terogeneous commixture, of <hi>ſuperſtition</hi> and
+<hi>prophaneneſſe.</hi> We cannot prevaile with our ſelves, to nouriſh
+the leaſt hope of ever being ſo happy, as to ſee <hi>Ignorance</hi>
+become ſerviceable to true <hi>Piety.</hi> We know the <hi>affections,</hi>
+cannot out-go the <hi>ap<g ref="char:EOLhyphen"/>prehenſions;</hi> that till Truth be
+<hi>knowne,</hi> ſhe cannot be <hi>reveren<g ref="char:EOLhyphen"/>ced,</hi> cannot but be
+<hi>hated.</hi> The <hi>Principles</hi> of Chriſtianity have nothing in them,
+that can at firſt glance, take with the preju<g ref="char:EOLhyphen"/>diced hearts of <hi>natural
+men;</hi> and yet they ſecretly carry an in<g ref="char:EOLhyphen"/>comparable <hi>beauty,</hi> which
+is no ſooner <hi>diſcovered,</hi> then <hi>admi<g ref="char:EOLhyphen"/>red</hi> and
+<hi>adored</hi> by all thoſe, whoſe <hi>eyes</hi> God is pleaſed to open
+to a clear <hi>inſpection,</hi> and whoſe hearts he vouchſafes to draw to
+a nearer <hi>embracing</hi> of them. They who have the happi<g ref="char:EOLhyphen"/>neſſe to be
+rightly informed in theſe ſacred Principles, readily acknowledge that the
+choiceſt <hi>treaſures of wiſdom,</hi> are cu<g ref="char:EOLhyphen"/>riouſly wrapt up, under
+the myſterious covert of a ſeeming <hi>fooliſhneſſe;</hi> and that
+what appeared but a worthleſſe <hi>ſhell,</hi> ſe<g ref="char:EOLhyphen"/>cretly incloſeth
+the invaluable <hi>Pearle.</hi> The <hi>ſhell</hi> being skil<g ref="char:EOLhyphen"/>fully
+<hi>opened,</hi> the <hi>Pearle</hi> forthwith diſplaies it ſelf with an
+ori<g ref="char:EOLhyphen"/>ent <hi>luſtre.</hi> To <hi>open the ſhell</hi> is the <hi>Catechiſts
+task.</hi>
+            </p>
+            <p>The more do we wonder, and the leſſe can we beleeve, what hath
+been ſomtimes ſuggeſted, that any of our Brethren of the Miniſtery
+ſhould ſuperciliouſly overlook this Exerciſe of Ca<g ref="char:EOLhyphen"/>techizing, as below
+the dignity of their ſtation, and accord<g ref="char:EOLhyphen"/>ingly put it off as a meaner
+<hi>chare,</hi> to the <hi>parents</hi> and <hi>gover<g ref="char:EOLhyphen"/>nours</hi> of private
+families.</p>
+            <p>We heartily rejoyce to hear, of any good hands that are pleaſed
+to employ themſelves in ſo profitable a ſervice; and<pb n="7" facs="tcp:118797:4"/>could earneſtly wiſh, that all thoſe to whom the providence of
+God hath committed the care of young ones, would reck<g ref="char:EOLhyphen"/>on it a chief part of
+that <hi>honourable duty,</hi> which they owe to their <hi>children</hi> and
+<hi>ſervants.</hi> But withall we profeſſe, that thoſe <hi>privater
+preparations,</hi> ſhould rather be <hi>encouragements</hi> to the brethren
+of the Miniſtery, the more chearfully to <hi>purſue,</hi> then
+diſpenſations in any wiſe to <hi>omit</hi> the neceſſary exerciſe
+of <hi>publike Catechizing.</hi> They who have been <hi>taught</hi> at home,
+will the better <hi>learne</hi> in the Church; and having firſt gotten
+ſomewhat of their leſſon by <hi>rote,</hi> be the more qualified to
+receive the <hi>reaſon</hi> of it. They are miſtaken who think the
+<hi>Ministers Catechizing,</hi> is but an <hi>examining</hi> of the
+<hi>memory;</hi> it is an <hi>inform<g ref="char:EOLhyphen"/>ing</hi> of the <hi>underſtanding;</hi>
+and of all others the moſt <hi>Doctor<g ref="char:EOLhyphen"/>like</hi> part of his work. If there
+have beene any heretofore, who have gravely required the Catechiſts, to
+<hi>aske</hi> certaine <hi>queſtions,</hi> and as ſolemnely forbidden them
+to <hi>expound</hi> the <hi>an<g ref="char:EOLhyphen"/>ſwers,</hi> we do ſuppoſe ſuch
+<hi>injunctions</hi> were laid, only on ſome of their <hi>Curates,</hi> of
+whom their wiſdome ſaw good cauſe to be jealous, how it adventured to
+allow them to <hi>ſpeak with<g ref="char:EOLhyphen"/>out book.</hi>
+            </p>
+            <p>But certainly <hi>Catechizing</hi> is a familiar kinde of
+<hi>preaching extempore,</hi> not to be performed without a clear inſight
+into the greateſt depths of Religion, and a proportionable gift of ready
+expreſſion.</p>
+            <p>What is there that requires more Theological abilities, then a
+perſpicuous explication of thoſe dark myſteries of the
+righteouſneſſe of God, <hi>in charging the ſinne of</hi> Adam <hi>on
+the whole world,</hi> and <hi>laying the ſinne of the whole world on Jeſus
+Christ of the Hypoſtatical union of two natures in one perſon of Chriſt,
+of the communication of all the properties of each na<g ref="char:EOLhyphen"/>ture to the perſon, the
+limitation of all the attributes of the per<g ref="char:EOLhyphen"/>ſon to the ſeveral
+natures,</hi> of the <hi>offices which Chriſt exerciſeth in his Church, the
+relations which all the members of the Church have to Chriſt, and one to
+another; of the ſubſerviency of the law to the Goſpel, of Chriſts
+abrogating ſome parts of the law, ſo as to eſtabliſh all?</hi> It had
+need be a very skilful hand, that ſhall lead <hi>lambs</hi> both with
+ſafety, and not without an holy de<g ref="char:EOLhyphen"/>light, through thoſe profound depths,
+wherein ſo many<pb n="8" facs="tcp:118797:5"/>
+               <hi>Elephants</hi> have moſt miſerably
+miſcarried.</p>
+            <p>The conſideration hereof doth little leſſe then amaze us,
+when we obſerve how ſome of our <hi>people,</hi> (in whom (be it ſpoken
+without offence) we never diſcerned any extra<g ref="char:EOLhyphen"/>ordinary meaſure of
+ſpiritual knowledge, beyond the com<g ref="char:EOLhyphen"/>mon ſize of their neighbours
+attainments,) do overly reject this exerciſe of <hi>Catechizing,</hi> and
+hold it unworthy of ſuch wiſe ones as themſelves, to vouchſafe their
+preſence at it. We had thought the <hi>ſtrongest men</hi> among us needed
+not have diſdained to taſte ſome few ſpoonfuls of <hi>milk.</hi> We are
+ſure that that which they pleaſe to ſlight as but <hi>milk,</hi> coſts
+us more the <hi>dreſſing</hi> then any other <hi>proviſions</hi>
+wherewith they can expect to be entertained. The loweſt <hi>principles</hi>
+of Chri<g ref="char:EOLhyphen"/>ſtianity, are the higheſt <hi>myſteries.</hi> Thoſe are the
+greateſt <hi>ſtones</hi> which are laid in the <hi>foundation.</hi> Theſe
+are they which ſupport all the reſt of the <hi>building.</hi> Theſe are
+they which bear the greateſt brunt of <hi>oppoſition.</hi> What
+controverſies e<g ref="char:EOLhyphen"/>ver troubled the Church of God, like thoſe about the
+<hi>corner ſtone?</hi> The <hi>concluſions</hi> of our Religion are for the
+more part beyond <hi>contradiction,</hi> all the greateſt quarrels have been
+a<g ref="char:EOLhyphen"/>gainſt our <hi>principles.</hi> Witneſſe in elder times the hereſie
+of <hi>Arius,</hi> which ſtruck ſo audaciouſly at the <hi>Deity of
+Chriſt;</hi> that of <hi>Macedonius,</hi> which dealt as full a blow at the
+<hi>Deity of the holy Ghoſt;</hi> and in our dayes that of the
+<hi>Socinians</hi> who have aſſayed to knock down at once all the received
+Articles of the <hi>Catholick faith,</hi> and to ſet up moſt of the
+<hi>ſtigmatized hereſies</hi> in their room. Hereof we have too full
+evidence in the <hi>Racovian Catechiſme,</hi> not long ſince Engliſhed,
+and more lately enlarged, by Maſter <hi>Biddle;</hi> Such mens pub<g ref="char:EOLhyphen"/>liſhing
+their Catechiſmes for the propagation of their <hi>Blaſ<g ref="char:EOLhyphen"/>phemies,</hi> minds
+us of the <hi>true uſe</hi> of Orthodox <hi>Catechizing,</hi> for the
+ſuppreſſing and preventing of them.</p>
+            <p>And we ſeeme to have juſt cauſe to conceive the higher
+thoughts of its uſefulneſſe to this purpoſe, when we ſadly re<g ref="char:EOLhyphen"/>flect
+on the many difficulties whereof we have had hereto<g ref="char:EOLhyphen"/>fore too frequent
+<hi>experience,</hi> and have now as jealous <hi>ex<g ref="char:EOLhyphen"/>pectations.</hi> We have
+all along obſerved that the <hi>better</hi> any practiſe is, the
+<hi>worſe</hi> reception it doth uſually finde. The<pb n="9" facs="tcp:118797:5"/>
+               <hi>general averſneſſe</hi> of <hi>young ones</hi> from this
+exerciſe of Cate<g ref="char:EOLhyphen"/>chizing, is not the leaſt argument of its <hi>ſingular
+uſefulneſſe.</hi> The more unwilling they are to preſent themſelves
+to be catechiſed, the more reaſon have we to preſſe them to it, by the
+greateſt <hi>violence</hi> of perſwaſion.</p>
+            <p>We would not ſeeme to feare, that any of them will have the face
+to tell us, of a tedious <hi>longſomeneſſe</hi> whereunto the addition of
+<hi>catechizing</hi> will draw out the <hi>exerciſes</hi> in the Church. For
+beſides that the pleaſing <hi>variety</hi> will ſweetly detract from the
+ſenſe of <hi>prolixity,</hi> we hope they are not to learne, that the
+<hi>Lords day</hi> would be wholly ſpent in the <hi>Lords ſervice;</hi> and
+that every <hi>moment</hi> of it is more <hi>precious,</hi> then to be idly
+<hi>ſquandered</hi> away in ſuch vaine <hi>triflings,</hi> as wherein too
+many are wont to <hi>miſpend</hi> it. And as for ſome <hi>neceſ<g ref="char:EOLhyphen"/>ſary
+employments,</hi> which may chance to be alleaged as <hi>ex<g ref="char:EOLhyphen"/>ceptions</hi>
+againſt this <hi>exerciſe,</hi> it may ſuffice to ſay, that com<g ref="char:EOLhyphen"/>ing to
+the Church a litle <hi>ſooner</hi> in the <hi>morning,</hi> will ſo
+ſuffici<g ref="char:EOLhyphen"/>ently lengthen out the <hi>afternoon,</hi> as that it will
+convenient<g ref="char:EOLhyphen"/>ly enough afford a competent time for it in the <hi>ſhorteſt
+dayes.</hi> Nor will any of the <hi>other ſervices</hi> complaine of being
+wronged, in being now and then drawn ſomewhat <hi>cloſer</hi> to<g ref="char:EOLhyphen"/>gether,
+for the <hi>opening</hi> a place to <hi>Catechizing,</hi> conſidering how
+exceeding much it is like to <hi>deſerve of them all.</hi>
+            </p>
+            <p>For other things, we ſhall all readily give them, whatever
+aſſurance they can reaſonably deſire, that we will have a tender eye to
+the <hi>ſlowneſſe</hi> of <hi>apprehenſion</hi> in ſome of them, to
+the <hi>ſlipperineſſe</hi> of <hi>memory</hi> in others, to the
+<hi>baſhfulneſſe</hi> of moſt, to the <hi>reputation</hi> of all of
+them; that we ſhall op<g ref="char:EOLhyphen"/>portunely <hi>prevent</hi> their <hi>groſſer
+miſtakes,</hi> and candidly <hi>palliate</hi> their <hi>leſſer</hi> ones.
+That we ſhall give the <hi>beſt ſenſe</hi> to the <hi>worſt</hi> of
+their <hi>anſwers,</hi> and put ſome neceſſary <hi>words</hi> into
+their mouths, the better to facilitate the expreſſion of their
+<hi>thoughts;</hi> that we ſhall carefully manage every part of this
+buſineſſe, with the beſt of our wiſdome, and endeavour to
+<hi>credit</hi> them, as well as to <hi>inſtruct</hi> them; and to procure
+them both the more <hi>eſteeme</hi> in the Church, and <hi>favour</hi> when
+they come home.</p>
+            <p>And if any of them ſhall yet chance to look upon it as
+<pb n="10" facs="tcp:118797:6"/>ſome <hi>indignity</hi> to them, to ſit under the
+<hi>Deske,</hi> when ſome of their fellowes advance themſelves to ſtand
+in the <hi>Pulpit,</hi> we doubt not but to convince them, that all intelligent
+men account ſuch <hi>forwardneſſe,</hi> not a <hi>ſpecimen</hi> of more
+<hi>know<g ref="char:EOLhyphen"/>ledge,</hi> but leſſe <hi>modeſty,</hi> then their years ſeeme
+to beſpeak. A<g ref="char:EOLhyphen"/>las, it is only their <hi>ignorance</hi> that oiles their
+<hi>tongues:</hi> had they but had the <hi>patience</hi> to have beene duly
+<hi>Catechized,</hi> they had not had the <hi>preſumption</hi> to
+<hi>preach,</hi> or rather, <hi>prate</hi> ſo imper<g ref="char:EOLhyphen"/>tinently. Their <hi>want
+of learning</hi> is the principal <hi>faculty</hi> that qualifies them for
+ſuch <hi>exerciſes.</hi> Had they beene <hi>ſwifter to hear,</hi> they
+would have beene <hi>ſlower to ſpeak.</hi>
+            </p>
+            <p>We are ſo ſufficiently acquainted with the <hi>untractable
+temper</hi> of ſuch impetuous <hi>ſpiritati,</hi> that we begin to
+<hi>excuſe</hi> their <hi>parents and maſters,</hi> that they forbear to
+interpoſe their intereſt and authority for the further
+<hi>reſtraining</hi> them. What hope is there that they who pretend
+<hi>God</hi> doth imme<g ref="char:EOLhyphen"/>diately <hi>Commiſſion</hi> them to <hi>preach,</hi>
+will yeeld obedience to any <hi>mortal man</hi> that ſhall command them to be
+<hi>ſilent?</hi> But we muſt needs ſay we extremely marvel, how it comes
+to paſſe, that any <hi>parents and maſters</hi> (albeit they hereupon
+neglect to forbid theſe bold yonkers to <hi>preach,</hi> yet) ſhould
+pretend a ſecret check in their conſciences, and make a piti<g ref="char:EOLhyphen"/>full doubt
+whether they may require them to <hi>learne.</hi> We wonder how they have beene
+ſo ſtrangely inveigled, as to <hi>tolerate</hi> all things by
+<hi>ſcrupling</hi> them; and to let the reines <hi>looſe</hi> purely out of
+<hi>strictneſſe;</hi> to think it a <hi>ſinne in them<g ref="char:EOLhyphen"/>ſelves</hi> to
+preſſe a <hi>duty on others,</hi> and a <hi>breach</hi> of Gods holy Lawes
+to <hi>enjoyne</hi> the <hi>keeping</hi> of them; how it comes about that they
+who can allow themſelves to be <hi>ſevere</hi> enough to their ſervants
+for loytering in their <hi>ſhops,</hi> cannot finde it in their hearts to
+<hi>rebuke</hi> them for neglect of the <hi>Church;</hi> that they who hold
+themſelves <hi>bound</hi> in conſcience, to informe their ſervants in all
+the ſecrets of their <hi>trade,</hi> ſhould think themſelves as much
+<hi>tied up,</hi> from preſſing them to learne the <hi>myſteries of
+Religion.</hi>
+            </p>
+            <p>We ſhall ſay but this, that we ſee too much cauſe to fear,
+leſt they who uſe not all the means they can, to bring their children and
+ſervants to the <hi>Faith,</hi> be themſelves brought<pb n="11" facs="tcp:118797:6"/>at
+laſt to an unprofitable <hi>repentance.</hi> Sure we are, they who have not
+learned their duty to <hi>God,</hi> will never rightly per<g ref="char:EOLhyphen"/>forme their dutie to
+<hi>men.</hi> We wiſh that <hi>ſawey behaviour,</hi> and <hi>lame
+accounts,</hi> be not too ſad proofs of this unhappie truth. We take it to be
+ſo <hi>neceſſary</hi> that all Parents and Maſters bring their young
+ones to be Catechized, that we think it <hi>needleſſe</hi> to preſſe it
+any further.</p>
+            <p>Only we are ſorry to conſider, that ſome who profeſſe
+themſelves convinced of the <hi>uſefulneſſe of Catechizing,</hi> are at
+a ſtand about <hi>thoſe Catechiſmes</hi> which we would commend to their
+uſe; we meane thoſe excellent ones, which were not long ſince compoſed
+by the <hi>Reverend Divines</hi> aſſem<g ref="char:EOLhyphen"/>bled at <hi>Weſtminſter,</hi>
+atteſted by the <hi>Church of Scotland,</hi> recommended to this Nation by
+the <hi>High Court of Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>If we be not too much miſtaken, the <hi>larger Catechiſme</hi>
+is as compleat a body of poſitive Divinity, as any we know ex<g ref="char:EOLhyphen"/>tant this day;
+and we beleeve that whoſoever ſhall peruſe it with a judicious, and
+unprejudiced eye, will eaſily obſerve the ſingular skill of thoſe
+eminent workmen, who ſo accurate<g ref="char:EOLhyphen"/>ly folded ſo much variety of choice matter
+in ſo few plaine words, ſo artificially digeſted the queſtions, ſo
+irrefra<g ref="char:EOLhyphen"/>gably confirmed every branch of the anſwers, by ſo many clear
+proofs of Scripture, all along quoted in the <hi>margent.</hi> We profeſſe
+to look on that <hi>larger Catechiſme,</hi> as an excel<g ref="char:EOLhyphen"/>lent <hi>card,</hi>
+not only for <hi>vulgar Chriſtians,</hi> but all <hi>younger Di<g ref="char:EOLhyphen"/>vines</hi> to
+<hi>ſteere</hi> the courſe of their <hi>ſtudies.</hi>
+            </p>
+            <p>Nor yet do <hi>we think</hi> higher, then ſome moſt Reverend
+men have beene pleaſed to <hi>ſpeak</hi> of it, and they ſuch, as by
+rea<g ref="char:EOLhyphen"/>ſon of their intereſt in the <hi>Epiſcopal cauſe,</hi> were not
+like to overvalue any labour of the Aſſemblies, beyond the juſt rate of
+its apparant deſert.</p>
+            <p>The truth is, we judge that <hi>larger Catechiſme</hi> to be an
+uſeful <hi>Comment</hi> for <hi>our ſelves</hi> to have recourſe to, in
+the <hi>ex<g ref="char:EOLhyphen"/>plication</hi> of the <hi>leſſer,</hi> which we eſteeme better
+tempered to the capacities, and memories of <hi>younger people.</hi> And this
+teſtimony we may freely give to this <hi>leſſer Catechiſme,</hi> that
+it hath this conſiderable excellency, above all thoſe we have
+<pb n="12" facs="tcp:118797:7"/>ſeene, that <hi>every anſwer is an intire propoſition
+without rela<g ref="char:EOLhyphen"/>tion to the queſtion preceding.</hi>
+            </p>
+            <p>In ſhort, we humbly <hi>bleſſe God,</hi> for ſo <hi>great
+a help,</hi> as he hath graciouſly afforded theſe Churches in this
+<hi>little piece;</hi> and we as heartily <hi>bluſh</hi> to think of our own
+un<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcuſable <hi>neg<g ref="char:EOLhyphen"/>lect,</hi> of
+ſo <hi>precious</hi> a <hi>means,</hi> for the inſtruction of our
+people.</p>
+            <p>And yet too, though we moſt paſſionately wiſh, that all
+our Brethren would unanimouſly concurre in the joynt uſe of <hi>one and the
+ſame,</hi> and that the <hi>Aſſemblies Catechiſme;</hi> yet ſhall we
+abundantly rejoyce, to ſee them perſwaded, to uſe any other <hi>Orthodox
+Catechiſme,</hi> which they in their wiſdom, ſhall judge <hi>better
+calculated,</hi> to the condition of their peo<g ref="char:EOLhyphen"/>ple. We ſee indeed too much
+cauſe, and ſo we doubt not, do all our Brethren, to abhorre the
+<hi>Racovian</hi> and <hi>Biddles Cate<g ref="char:EOLhyphen"/>chiſme;</hi> but for all thoſe which
+have beene <hi>ordinary</hi> amongſt us (however it hath pleaſed ſome
+body, in a ſullen gravity to <hi>put them to rebuke,</hi>yet) 
+<note place="margin">
+                  <hi>Red. Red.</hi> P. 555.</note> we
+profeſſe to receive them with <hi>reverence,</hi> and could readily comply
+with our Brethren in the uſe of <hi>any one of them.</hi> So that the younger
+people may be taught to know <hi>who made them,</hi> and <hi>why be made
+them,</hi> how <hi>good and happy man was made by God,</hi> how <hi>evill and
+wretched he hath made himſelf,</hi> what <hi>need he had that the Lord
+Jeſus ſhould die for him,</hi> that the <hi>Holy Ghoſt ſhould
+re<g ref="char:EOLhyphen"/>generate him,</hi> what <hi>priviledges he doth enjoy, and may expect by
+Chriſt,</hi> what <hi>duties he is obliged to by thoſe priviledges,</hi>
+how he is to <hi>preſent his petitions to God,</hi> how to <hi>receive the
+ſeales of Gods gracious Covenant,</hi> with other particulars of like nature,
+we ſhall think them ſingularly happy, what ever be the <hi>forme</hi>
+wherein they ſhall <hi>learne</hi> them. We ſhall not too moroſely
+ſtand upon <hi>circumſtantial differences,</hi> where there is a fair
+accord in <hi>material principles.</hi>
+            </p>
+            <p>But our hearts even bleed, to conſider, how many preci<g ref="char:EOLhyphen"/>ous
+ſouls, are in daily danger of periſhing eternally, for want of meet
+inſtruction in theſe neceſſary points. Woe is us! while we have too
+ſupinely neglected the ſeaſonable ſowing of better <hi>ſeed,</hi> how
+wickedly diligent hath the <hi>envi<g ref="char:EOLhyphen"/>ous man</hi> beene in ſcattering his
+<hi>tares?</hi> We eſtimate his ex<g ref="char:EOLhyphen"/>ceſſive<pb n="13" facs="tcp:118797:7"/>paines in
+<hi>ſowing,</hi> by the curſed plenty of his <hi>harveſt.</hi> Not to
+take notice of <hi>leſſer weeds,</hi> though ſuch as have all but too
+much <hi>poiſon</hi> in them, how do we ſee Popery, Liber<g ref="char:EOLhyphen"/>tiniſme,
+Socinianiſme, Ranting, Quaking, ſpreading them<g ref="char:EOLhyphen"/>ſelves ſo widely, as if
+they meant to overgrow the whole face of the Nation, and ſcarce leave roome
+to the true Re<g ref="char:EOLhyphen"/>ligion to put forth its head among them? How often do we ſee
+ſeveral <hi>Sects</hi> in the ſame <hi>family,</hi> and many a
+<hi>ſubdivi<g ref="char:EOLhyphen"/>ſion</hi> in each <hi>Sect?</hi> How do we ſee ſundry
+perverſe <hi>doctrines</hi> as perniciouſly <hi>practiſed,</hi> that
+which ſome pleaſe to call Religion (quite contrary to the nature of what is
+ſuch in<g ref="char:EOLhyphen"/>deed) ſacrilegiouſly breaking all the <hi>bonds</hi> of
+<hi>ſociety,</hi> and <hi>yokes</hi> of <hi>government,</hi> which are the
+only <hi>ſecurers</hi> of true <hi>liberty?</hi> We pray God the
+<hi>State</hi> do not one day feele, what it is to let all <hi>looſe</hi> in
+the <hi>Church:</hi> ſure we are that too many <hi>ma<g ref="char:EOLhyphen"/>ſters of private
+families,</hi> are already faine to ſit down un<g ref="char:EOLhyphen"/>der the unſufferable
+loſſe, of a conſiderable parcel of their <hi>authority;</hi> and well
+were it for them, if they miſt it but <hi>one day in ſeven:</hi> We do not
+deſpaire, but they will at laſt grow ſo wiſe, as to ſee how much of
+their <hi>own interest,</hi> is invol<g ref="char:EOLhyphen"/>ved in the <hi>cauſe of God;</hi> and
+that it is an apparant diſad<g ref="char:EOLhyphen"/>vantage to their <hi>ſecular affaires,</hi> to
+neglect the <hi>ſpiritual inſtruction</hi> of their <hi>children</hi> and
+<hi>ſervants.</hi> But for our Re<g ref="char:EOLhyphen"/>verend and deare <hi>Brethren of the
+Miniſtery,</hi> we cannot eaſily admit the leaſt doubt that they are not
+fully convinced of an eſpecial duty they owe to <hi>God,</hi> who hath
+honoured them to ſet them as <hi>Stewards</hi> in his houſe, to <hi>give
+every one his proper portion in due ſeaſon:</hi> and of all others
+<hi>young ones</hi> would be moſt carefully provided for; to the
+<hi>truth,</hi> whereof God hath appointed them to take a peculiar care, as the
+moſt preci<g ref="char:EOLhyphen"/>ous <hi>treaſure</hi> in his houſe; to the <hi>ſoules</hi>
+of their hearers, who are not capable of being ſaved without the knowledge of
+the truth; to the ſoules of <hi>young men</hi> eſpecially, who if they be
+not taught the truth in their <hi>greener</hi> yeares, will more dif<g ref="char:EOLhyphen"/>ficultly
+learne it when they are growne <hi>elder,</hi> and the more <hi>ripe</hi> the
+more <hi>rotten;</hi> to <hi>themſelves,</hi> who owe a juſt
+<hi>ac<g ref="char:EOLhyphen"/>count</hi> for every particular ſoule committed to their charge. They
+know how great a price the leaſt ſoule hath coſt, that<pb n="14" facs="tcp:118797:8"/>the weakeſt <hi>lamb</hi> ſtood Chriſt no leſſe then the
+ſtrongeſt <hi>ſheep,</hi> how rich a prey Satan hath ever reckon'd on in
+the pooreſt ſoul; how induſtrious he is in hunting, how many nimble
+<hi>beagles</hi> he hath that rejoyce to do their beſt in the worſt
+ſer<g ref="char:EOLhyphen"/>vice he liſts to imploy them; how great advantages they have at this
+time by the many ſad breaches in all our <hi>hedges;</hi> how little we can
+anſwer it, that ſo many <hi>breaches</hi> have been made, while we ſo
+ſpeciouſly pretended, and ſo<g ref="char:EOLhyphen"/>lemnly vowed to <hi>repaire</hi> them; how
+heavy cenſures are day<g ref="char:EOLhyphen"/>ly caſt on our ſincereſt endeavours of a pure
+<hi>Reformation,</hi> as if they aimed only at <hi>ruining.</hi> We have good
+hopes that all who unfeignedly love God and his truth, will in the ſerious
+conſideration of theſe particulars, and many more, which their owne
+wiſdome will readily prompt them, immediately lay aſide whatever pretences,
+and con<g ref="char:EOLhyphen"/>ſcientiouſly joyne with us, in a ſpeedy reviving of that moſt
+neceſſary, though neglected exerciſe of Catechizing; which ſeemes of
+all others the moſt probable meanes, both for the timely baying back of that
+fearful inundation of peſtilent Hereſies, which hath too farre broken in
+upon us, and for the better preventing of thoſe miſchievous effects, which
+they daily threaten.</p>
+            <p>We cannot entertaine the leaſt ſurmiſe, of any of our
+Reverend Brethren, that they will look on this Work, as too troubleſome an
+addition to their other labours, on the Lords day. We are confident they
+rejoyce, to ſpend them<g ref="char:EOLhyphen"/>ſelves in the ſervice of God and his Church; and
+reckon not on the <hi>conſuming</hi> of their <hi>oile,</hi> while they may
+lend their <hi>light;</hi> yea, that they feele no greater <hi>burden,</hi>
+then the <hi>heavineſſe of their people in hearing.</hi>
+            </p>
+            <p>Beſides, we eaſily foreſee, how much their Catechizing will
+ſeaſonably conduce, to a juſt vindication of the honour of their
+Doctrine, from thoſe abſurd reproaches, with which ſome ſlanderous
+Pamphleters endeavour to blaſt it, impu<g ref="char:EOLhyphen"/>dently ſaying <hi>any thing,</hi>
+and proving <hi>nothing;</hi> yea, ſay<g ref="char:EOLhyphen"/>ing nothing, but what hath beene as
+often <hi>anſwered,</hi> as <hi>ob<g ref="char:EOLhyphen"/>jected.</hi>
+            </p>
+            <p>We doubt not but that <hi>modell of Divinity which is com<g ref="char:EOLhyphen"/>monly
+<pb n="15" facs="tcp:118797:8"/>taught in our Churches,</hi> hath a faire conformity to the
+<hi>patterne in the Mount.</hi> We are ſure its aime is to ad<g ref="char:EOLhyphen"/>vance, the
+glory of Gods <hi>grace,</hi> to ſtaine the pride of mans <hi>nature;</hi> to
+make the Saints walke much the more <hi>comfort<g ref="char:EOLhyphen"/>ably,</hi> nothing the
+leſſe <hi>carefully;</hi> to damme up that curſed fountaine of
+<hi>ſelf-conceit,</hi> whence daily iſſue ſo many im<g ref="char:EOLhyphen"/>pure ſtreames,
+not to open a ſluce to any of thoſe hor<g ref="char:EOLhyphen"/>rible <hi>abominations,</hi> which
+threaten to over-whelme the face of the world. The knowne practiſes of
+thoſe bleſ<g ref="char:EOLhyphen"/>ſed men, who have beene the moſt zealous <hi>Preachers,</hi>
+and reſolute <hi>Champions</hi> for our Doctrine, have all along
+ſufficienly vindicated it, from theſe both <hi>ſenſeleſſe</hi> and
+<hi>front<g ref="char:EOLhyphen"/>leſſe</hi> calumniations.</p>
+            <p>And howbeit it be pretended, that we impoſe on <hi>o<g ref="char:EOLhyphen"/>ther
+mens</hi> beliefe, and ſuffer <hi>our ſelves</hi> to be over-ruled by
+<hi>corrupt iniereſts;</hi> Yet we doubt not but it clearly ap<g ref="char:EOLhyphen"/>peares to the
+<hi>children of wiſdome,</hi> that we make Gods <hi>Word</hi> our onely
+<hi>rule,</hi> and his <hi>glory</hi> our onely <hi>aime;</hi> and drive no
+other deſigne, but to bring our people to the ſaving knowledge of <hi>the
+onely true God, and Jèſus Chriſt whom he hath ſent.</hi> It is our
+griefe to ſee poore ſoules, taught to <hi>hate</hi> our Doctrine, before
+they <hi>know</hi> it. If they were duely Catechized, we hope, many of them,
+would both acknowledge, and adore, that <hi>beauty of holineſſe,</hi> which
+gloriouſly ſhines in every lineament of it.</p>
+            <p>Could we diſpenſe with our ſelves, to borrow a wilde
+ſtraine from the ranting Rhetorick, of a Thraſonical adverſarie, we
+ſhould terme it an <hi>Apocryphal diaboliſme,</hi> to ſay that we
+<hi>will not ſuffer the Lord Jeſus, quietly to inherit: the glory and
+praiſe of his ever-bleſſed work of Redemption, in the juſt compaſſe
+and extent of it;</hi> that <hi>wee ſet bounds and barres to the grace of God
+which he never ſet; that we preach this (in effect) for Goſpel to the
+world, that God ne<g ref="char:EOLhyphen"/>ver bare any good will to the greateſt part of them; but
+de<g ref="char:EOLhyphen"/>creed peremptorily from eternity, eternally to torment them, with the
+vengeance of eternal fire, how innocently, blame<g ref="char:EOLhyphen"/>leſſely, ſpotleſſely
+ſoever they ſhould live in the world all their dayes.</hi>
+               <note place="margin">I. G. <hi>Catabapt.</hi> Epiſt. to Read. <hi>p.
+antepen.</hi>
+               </note>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:118797:9"/>Be it knowne, we <hi>extend</hi> the glory of
+the work of <hi>Redemption,</hi> farre more then they who accuſe us of
+<hi>re<g ref="char:EOLhyphen"/>ſtraining</hi> it: We not onely teach that <hi>God gave his only
+begotten <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne, that whoſoever
+beleeves, ſhould not periſh, but have life everlasting;</hi> but alſo
+adde, that Chriſt <hi>re<g ref="char:EOLhyphen"/>deemed his people from their ſinnes,</hi> as well
+as from the <hi>wrath</hi> due to them; from the <hi>world</hi> and
+<hi>themſelves,</hi> as well as from <hi>Hell</hi> and <hi>Satan.</hi> We
+teach that Chriſt pur<g ref="char:EOLhyphen"/>chaſed our <hi>faith</hi> in order to our
+<hi>ſalvation,</hi> as well as our <hi>ſalvation</hi> in conſequence on
+our <hi>beleeving;</hi> and pro<g ref="char:EOLhyphen"/>feſſe to owe to Chriſts purchaſe the
+<hi>changing of our hearts</hi> as well as the <hi>ſaving of our
+ſoules:</hi> We acknowledge our ſelves indebted to <hi>Chriſt,</hi> for
+that which our adverſaries have learned to put on <hi>their owne
+account,</hi> and to thank <hi>themſelves</hi> for it. And whereas
+<hi>they</hi> are pleaſed to repre<g ref="char:EOLhyphen"/>ſent Chriſt, but ſuch a
+<hi>Redeemer,</hi> as whoſe <hi>redemption</hi> not<g ref="char:EOLhyphen"/>withſtanding, the whole
+world poſſibly might have been damned, yea it was impoſſible that any
+man ſhould be ſa<g ref="char:EOLhyphen"/>ved, (it being as much beyond the power of nature to
+beleeve of it ſelf without ſpecial grace purchaſed by Chriſt, as for a
+man though never ſo gracious to merit the glory of heaven;) <hi>we</hi> have
+learned, and accordingly teach, that not one of all Chriſts ſheep ſhall
+eternally miſcarry. So farre are we from <hi>ſtraitning</hi> the grace of
+God, that we allow no <hi>bounds,</hi> or <hi>barres</hi> to be ſet to the
+<hi>invincible efficacie</hi> of it. We indeed ſet bounds to
+<hi>na<g ref="char:EOLhyphen"/>ture,</hi> none to <hi>grace;</hi> as acknowledging a ſufficiencie of
+the <hi>grace of God</hi> to conquer all the oppoſitions which can be made by
+the <hi>corruptions of man;</hi> denying a ſufficiency in <hi>man,</hi> to
+the leaſt <hi>ſpiritual</hi> work, without a bleſſed ſuper<g ref="char:EOLhyphen"/>addition
+of <hi>Gods ſpecial grace.</hi> In the mean time we de<g ref="char:EOLhyphen"/>ny, that <hi>God
+decreed, to puniſh</hi> any of the ſonnes of men but for their
+<hi>ſinnes;</hi> onely we affirm that he bare not <hi>ſuch good will to the
+greater part of men,</hi> as to decree to give them his <hi>ſpecial
+grace;</hi> and that without <hi>this,</hi> no man how <hi>innocent,
+blameleſſe,</hi> and <hi>ſpotleſſe</hi> ſoever his converſation
+may ſeeme to <hi>men,</hi> is other then a deſperate <hi>enemy</hi>
+againſt <hi>God.</hi> Nor yet do we preach this as a branch<pb n="17" facs="tcp:118797:9"/>of the <hi>Goſpel;</hi> but onely maintaine it as a part of the
+<hi>counſel</hi> of God revealed in the Scriptures, not repugnant unto
+it.</p>
+            <p>All that we aime at, is, to convince Gods people how much they owe
+to <hi>Gods grace;</hi> how miſerable they had beene, if he had left them (as
+juſtly he might) to the cor<g ref="char:EOLhyphen"/>ruption of their owne nature. We open a doore of
+hope to the pooreſt ſoules that groan under the ſad ſenſe of their
+loathed corruptions: that though of themſelves they can do nothing toward
+their ſalvation, yet by the grace of God, who works in us both to will and to
+do of his owne good pleaſure, they ſhall be happily enabled to work it out
+in a pleaſant fear and comfortable trembling. We are farre from ſaying,
+what we are ſhameleſſely reported to do, <hi>That the Elect, though they
+prove the first ſonnes of Belial, yet may be true beleevers,</hi> namely,
+while they continue ſuch; we onely ſay the <hi>Elect</hi> are many of them
+all as wicked, as any of the <hi>Reprobates,</hi> till by the <hi>grace</hi> of
+God they be brought to <hi>beleeve;</hi> and that though after they beleeve,
+they may poſſibly fall into horrible abominations, yet God out of his
+unchangeable love in which he <hi>elected</hi> them from all eternity,
+mercifully preſerves his ſeed though miſera<g ref="char:EOLhyphen"/>bly withered in their
+ſouls, and will in his good time graciouſly <hi>quicken</hi> it, infallibly
+reduce them to a hearty <hi>repentance,</hi> and bring them in
+<hi>repentance</hi> to <hi>ſalvation.</hi> We never dreamed of an
+<hi>impoſſibility</hi> of the Saints <hi>falling</hi> as <hi>of
+themſelves,</hi> nor of a <hi>poſſibility</hi> of their being
+<hi>ſaved</hi> without <hi>repentance</hi> through the <hi>grace of God.</hi>
+This diſtem<g ref="char:EOLhyphen"/>per'd pen ſtrikes no leſſe boldly at the Apoſtle, then
+our ſelves; and doth but in a reſtleſſe impotence, <hi>kick againſt
+the pricks.</hi>
+            </p>
+            <p>It will be much for the <hi>honour</hi> of our <hi>Doctrine</hi>
+to have the younger people receive the ſumme of it from <hi>our owne
+mouths</hi> in <hi>Catechizing,</hi> and not from the malicious <hi>pens</hi>
+of the wilful <hi>depravers</hi> of <hi>it,</hi> and <hi>defamers</hi> of
+<hi>us.</hi>
+            </p>
+            <p>As for <hi>expedients</hi> for the better accompliſhing of ſo
+good a work, whatſoever any of our <hi>Reverend Brethren</hi> ſhall
+pleaſe to communicate to us, beſide thoſe which we are<pb n="18" facs="tcp:118797:10"/>bold to commend to them in a ſhort draught hereunto an<g ref="char:EOLhyphen"/>nexed, we
+ſhall as thankfully receive, as they ſhall loving<g ref="char:EOLhyphen"/>ly propoſe them. And we
+earneſtly deſire that all ſiniſter miſconſtructions being
+charitably laid aſide, we would al rea<g ref="char:EOLhyphen"/>dily joyne both our hearts and hands,
+to the happier pro<g ref="char:EOLhyphen"/>moting of whatever may conduce to the propagation of the
+Truth, and preſervation of the peace in the Churches of Chriſt; as knowing
+that <hi>who in theſe things ſerveth Chriſt is acceptable unto God, and
+approved of men.</hi> And though per<g ref="char:EOLhyphen"/>haps we may not finde the iſſue of our
+endeavours, anſwer<g ref="char:EOLhyphen"/>able to our aime; yet ſhall we ſweetly ſatisfie our
+ſelves with this, that <hi>our labour is with our God,</hi> and that he will
+not re<g ref="char:EOLhyphen"/>ward us the leſſe, where our trouble is the greater.</p>
+            <p>We ſhall adde no more, but that we humbly <hi>bow our knees to
+the Father of our Lord Jeſus Chriſt, of whom the whole family in heaven and
+earth is named,</hi> that he would mercifully pardon all our failings,
+graciouſly proſper all our good endeavours; that he would knit the hearts
+of his people each to other, and all to himſelf; that he would vouchſafe to
+watch over his Miniſters, and help his Miniſters to watch over his peo<g ref="char:EOLhyphen"/>ple;
+that he would bleſſe all thoſe who <hi>love the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt in
+ſincerity,</hi> that <hi>mercy and peace may be on them and upon the Iſrael
+of God.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="order">
+            <pb n="19" facs="tcp:118797:10"/>
+            <opener>
+               <dateline>
+                  <date>Auguſt 30. 1655.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Provincial Aſ<g ref="char:EOLhyphen"/>ſembly that Doctor
+<hi>Kendall</hi> be deſired to take care for the printing of the
+<hi>Exhortation</hi> now brought in and read.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Samuel Balmford</hi> Moderator.</item>
+                     <item>
+                        <hi>John Jackſon</hi> Scriba.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:118797:11"/>
+            <pb n="21" facs="tcp:118797:11"/>
+            <head>Ordered at a Meeting of the Provincial Aſ<g ref="char:EOLhyphen"/>ſembly of
+<hi>London, November</hi> 23. 1648. That Copies hereof be ſent to the
+<hi>Claſſes</hi> within the Province of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Provincial Aſſembly of <hi>London</hi> taking into their
+ſerious conſideration how ſin<g ref="char:EOLhyphen"/>gularly uſeful a diligent courſe of
+Cate<g ref="char:EOLhyphen"/>chizing in all publike Aſſemblies within this Province, will be for
+the promoting of ſound knowledge in the Fundamentals of Chriſtian Religion,
+and of the power of godlineſſe againſt all manner of Errors in Opinion,
+and Prophaneneſſe in converſation; have thought it neceſſary, moſt
+earneſt<g ref="char:EOLhyphen"/>ly to recommend this pious and profitable Exerciſe to all the
+ſeveral <hi>Claſſes</hi> within this Province, that they in their zeale
+to Gods glory and the Churches edifica<g ref="char:EOLhyphen"/>tion, may take ſuch courſe, that it
+be ſpeedily and effe<g ref="char:EOLhyphen"/>ctually put in execution within all their reſpective
+Congregations.</p>
+            <p>And for the more orderly and uniforme carrying on of this
+excellent and needful work, It is deſired that theſe following directions
+be obſerved;
+<list>
+                  <item>I. That the ſeveral Miniſters on ſome Lords day when
+<pb n="22" facs="tcp:118797:12"/>they give publike notice of their purpoſe to ſet upon
+Catechizing, do in their Sermons effectually demon<g ref="char:EOLhyphen"/>ſtrate the great
+neceſſity and utility thereof, earneſtly exhorting all Parents and
+Maſters of families to pre<g ref="char:EOLhyphen"/>pare their children and ſervants by Catechizing
+them at home, that they may more readily and chearfully give account in
+publike.</item>
+                  <item>II. That the Catechiſme to be made uſe of through this
+whole Province be the leſſer Catechiſme, drawn up and preſented by the
+Reverend Aſſembly of Divines to the Honourable Houſes of Parliament, and
+publiſhed by their Authority, to be uſed throughout the Kingdome of
+<hi>England</hi> and Dominion of <hi>Wales,</hi> this Catechiſme herein
+excelling all others, that every anſwer is a per<g ref="char:EOLhyphen"/>fect Propoſition without
+the Queſtion.</item>
+                  <item>III. That the perſons to be Catechized, be children and
+ſervants, that have not beene admitted to the Lords Table by the
+Elderſhip.</item>
+                  <item>IV. That the time of Catechizing be on the Lords dayes in
+the afternoone before the Sermon, to the end that the whole Congregation may
+receive benefit thereby.</item>
+                  <item>V. That the Catechiſme be briefly explained at the
+firſt go<g ref="char:EOLhyphen"/>ing over it, that ſo the people may in a ſhort time have a
+taſte of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hole body of
+Divinity.</item>
+                  <item>VI. That Pariſhioners be deſired at the common charge
+of the Pariſh to provide Catechiſmes for the poore ſort, who cannot well
+provide for themſelves, and that the diſtribution of them be referred to
+the reſpective Miniſters.</item>
+                  <item>
+                     <pb n="23" facs="tcp:118797:12"/>Laſtly, it is deſired, that an
+accompt in writing [what progreſs is made in the Premiſſes] be returned
+from the <hi>Claſſes,</hi> to the Provincial Aſſembly, within fourty
+dayes after the receipt hereof.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>Signed in the Name and by the ap<g ref="char:EOLhyphen"/>pointment of the
+Provincial Aſ<g ref="char:EOLhyphen"/>ſembly.
+<list>
+                     <item>
+                        <hi>Edmund Calamy</hi> Moderator.</item>
+                     <item>
+                        <hi>William Harriſon</hi> Scribe.</item>
+                     <item>
+                        <hi>William Blackmore</hi> Scribe.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
